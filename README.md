@@ -1,2 +1,2 @@
 ## Мои навыки:
-<img src=" width="10%">
+<img src=https://learn.kodland.org/ru/task/97881/do width="10%">
