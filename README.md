@@ -1,2 +1,5 @@
 ## Мои навыки:
-<img src=https://learn.kodland.org/ru/task/97881/do width="10%">
+Умею работать на языке программирования Python
+
+Умею создавать discord и telegram ботов
+
